@@ -1,0 +1,54 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Frozen Yogurt",
+      "description": "Description for Frozen Yogurt"
+    },
+    {
+      "id": 2,
+      "name": "Ice cream sandwich",
+      "description": "Description for Ice cream sandwich"
+    },
+    {
+      "id": 3,
+      "name": "Eclair",
+      "description": "Description for Eclair"
+    },
+    {
+      "id": 4,
+      "name": "Cupcake",
+      "description": "Description for Cupcake"
+    },
+    {
+      "id": 5,
+      "name": "Gingerbread",
+      "description": "Description for Gingerbread"
+    },
+    {
+      "id": 6,
+      "name": "Jelly bean",
+      "description": "Description for Jelly bean"
+    },
+    {
+      "id": 7,
+      "name": "Lollipop",
+      "description": "Description for Lollipop"
+    },
+    {
+      "id": 8,
+      "name": "Honeycomb",
+      "description": "Description for Honeycomb"
+    },
+    {
+      "id": 9,
+      "name": "Donut",
+      "description": "Description for Donut"
+    },
+    {
+      "id": 10,
+      "name": "KitKat",
+      "description": "Description for KitKat"
+    }
+  ]
+}
